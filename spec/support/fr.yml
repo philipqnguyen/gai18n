@@ -1,0 +1,8 @@
+---
+fr:
+  about:
+    title: À propos de nous
+  actions:
+    signin: Se connecter
+    signout: Se déconnecter
+    back: Retour

@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require 'gai18n'
+require 'gai18n/cli'
+
+GAI18n::CLI.new.run(ARGV)

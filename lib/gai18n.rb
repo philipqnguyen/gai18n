@@ -1,0 +1,22 @@
+require 'openai'
+require 'json'
+require 'yaml'
+require 'git'
+require 'openai/overrides'
+require 'gai18n/errors'
+require 'gai18n/openai/assistant'
+require 'gai18n/openai/message'
+require 'gai18n/openai/thread'
+require 'gai18n/openai/run'
+require 'gai18n/version'
+require 'gai18n/configuration'
+require 'gai18n/git_comparison'
+require 'gai18n/setup'
+require 'gai18n/translator'
+require 'gai18n/translation'
+require 'gai18n/locale_file'
+require 'gai18n/locale'
+require 'gai18n/content'
+
+module GAI18n
+end
