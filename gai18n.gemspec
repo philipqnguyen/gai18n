@@ -16,7 +16,7 @@ Gem::Specification.new do |s|
   s.description = 'Use Generative AI to generate I18n translations.'
   s.metadata['allowed_push_host'] = 'https://rubygems.org'
 
-  s.files = Dir['{lib|bin}/**/*', 'CHANGELOG.md', 'Rakefile', 'README.md']
+  s.files = Dir['{lib,bin}/**/*', 'CHANGELOG.md', 'Rakefile', 'README.md', 'LICENSE.txt', 'CODE_OF_CONDUCT.md']
   s.executables = ['gai18n']
 
   s.required_ruby_version = '>= 3.0.0'
