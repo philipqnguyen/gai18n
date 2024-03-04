@@ -20,6 +20,9 @@ $ bundle install
 
 ### Initial Setup
 
+Ensure you are in a Git repository, as the gem will require that you are
+in a Git repository to work properly.
+
 Please add the gai18n.rb configuration file. You can do this
 by running the following command, `bundle exec gai18n setup`.
 
