@@ -1,3 +1,5 @@
+[![Gem Version](https://badge.fury.io/rb/gai18n.svg)](https://badge.fury.io/rb/gai18n)
+
 # GAI18n
 
 GAI18n uses OpenAI's Assistant API to translate source language files to target
