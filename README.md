@@ -6,6 +6,8 @@ GAI18n uses OpenAI's Assistant API to translate source language files to target
 language files. It is packaged as a gem and should work well in Rails or plain
 Ruby applications.
 
+![Demo](gai18n_demo.gif)
+
 ## Setup
 
 ### Install the gem
